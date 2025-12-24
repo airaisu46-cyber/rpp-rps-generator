@@ -1,0 +1,9 @@
+rpp-rps-generator
+│
+├── index.html
+├── style.css
+├── data.js
+├── solo.js
+├── rubrik.js
+├── generator.js
+└── docx-generator.js
